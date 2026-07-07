@@ -47,6 +47,7 @@ Leetcode-Mastery/
 | 4 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | String, Stack | 2026-06-26 | [solution](./easy/20-valid-parentheses.js) |
 | 5 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List, Two Pointer | 2026-06-27 | [solution](./easy/21-merge-two-sorted-lists.js) |
 | 6 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointer | 2026-06-28 | [solution](./easy/26-remove-duplicates.js) |
+| 7 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointer | 2026-07-07 | [solution](./easy/27-remove-element.js) |
 
 ---
 
@@ -54,12 +55,12 @@ Leetcode-Mastery/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Array | 2 |
+| Array | 3 |
 | String | 3 |
 | Hash Map | 2 |
 | Stack | 1 |
 | Linked List | 1 |
-| Two Pointer | 2 |
+| Two Pointer | 3 |
 
 ---
 
