@@ -50,6 +50,7 @@ Leetcode-Mastery/
 | 7 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointer | 2026-07-07 | [solution](./easy/27-remove-element.js) |
 | 8 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Hash Map | 2026-07-08 | [solution](./easy/1-two-sum.js) |
 | 10 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Map | 2026-07-08 | [solution](./easy/242-valid-anagram.js) |
+| 11 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | Hash Map | 2026-07-08 | [solution](./easy/383-ransom-note.js) |
 
 ---
 
@@ -59,7 +60,7 @@ Leetcode-Mastery/
 |-------|----------------|
 | Array | 3 |
 | String | 3 |
-| Hash Map | 4 |
+| Hash Map | 5 |
 | Stack | 1 |
 | Linked List | 1 |
 | Two Pointer | 3 |
