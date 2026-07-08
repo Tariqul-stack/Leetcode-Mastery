@@ -49,6 +49,7 @@ Leetcode-Mastery/
 | 6 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointer | 2026-06-28 | [solution](./easy/26-remove-duplicates.js) |
 | 7 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointer | 2026-07-07 | [solution](./easy/27-remove-element.js) |
 | 8 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Hash Map | 2026-07-08 | [solution](./easy/1-two-sum.js) |
+| 10 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | Hash Map | 2026-07-08 | [solution](./easy/242-valid-anagram.js) |
 
 ---
 
@@ -58,7 +59,7 @@ Leetcode-Mastery/
 |-------|----------------|
 | Array | 3 |
 | String | 3 |
-| Hash Map | 3 |
+| Hash Map | 4 |
 | Stack | 1 |
 | Linked List | 1 |
 | Two Pointer | 3 |
